@@ -1,0 +1,14 @@
+# medical_manuscript_generator — Python dependencies
+# Cài đặt: pip install -r requirements.txt
+
+# HTTP requests cho PubMed/OpenAlex API
+requests>=2.28.0
+
+# Tạo file Word (.docx)
+python-docx>=0.8.11
+
+# Render trích dẫn theo chuẩn CSL
+citeproc-py>=0.6.0
+
+# Đọc tài liệu PDF tự chọn
+pypdf>=3.0.0
